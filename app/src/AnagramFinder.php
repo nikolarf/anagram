@@ -1,8 +1,8 @@
 <?php
 
-namespace Tests\Unit;
+namespace App\Src;
 
-use Tests\Unit\CharacterSorter;
+use App\Src\CharacterSorter;
 
 class AnagramFinder
 {

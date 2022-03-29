@@ -2,7 +2,7 @@
 
 namespace Tests\Unit;
 
-use Tests\Unit\AnagramFinder;
+use App\Src\AnagramFinder;
 use PHPUnit\Framework\TestCase;
 
 class AnagramFinderTest extends TestCase

@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Unit;
+namespace App\Src;
 
 /**
  * This class can sort characters.
