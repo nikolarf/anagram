@@ -19,4 +19,9 @@ Clear your cache & config (OPTIONAL)
 php artisan cache:clear && php artisan config:clear
 ```
 
+Run the tests
+``` 
+./vendor/bin/phpunit tests
+```
+
 
